@@ -1,4 +1,4 @@
-# 🎵 Hand Buzzer Controller - Controle Musical com os Dedos
+# 🎵 Hand Music Controller - Controle Musical com as Mãos
 
 Este projeto usa visão computacional com Python (OpenCV + MediaPipe) para controlar um buzzer passivo conectado ao Arduino. Cada dedo levantado na frente da webcam representa uma nota musical, que é tocada no buzzer.
 
