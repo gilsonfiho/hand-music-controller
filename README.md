@@ -14,7 +14,7 @@ Transformar gestos manuais em notas musicais reais, criando uma espécie de "pia
 - PySerial
 
 ### Arduino (lado microcontrolador)
-- Arduino UNO ou similar
+- Arduino UNO ou similar 
 - Buzzer passivo
 - Comunicação Serial
 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## 🔌 Circuito Arduino
 
-- Buzzer no pino **11**
+- Buzzer no pino digital **11**
 - GND do buzzer no **GND** do Arduino
 
 ---
@@ -102,6 +102,11 @@ hand-buzzer-controller/
 - Cabo USB para comunicação serial
 - Webcam (integrada ou USB)
 - PC com Python 3.8+ instalado
+
+---
+
+🔁 Próximos passos:
+Quero evoluir esse projeto para algo mais sofisticado, inspirando-me no conceito do Manosolfa ou similares — um método visual de representar notas com diferentes posições com a mão 🎼👐. Além de explorar outras fontes de saídas sonoras como alternativa ao buzzer.
 
 ---
 
